@@ -9,6 +9,26 @@
         width: 150px;
         height: 75px;
     }
+    h1 {
+        font-size: 30px !important;
+        padding-top: 60px;
+    }
+    h2 {
+        font-size: 20px !important;
+    }
+    p {
+        font-size: 12px !important;
+        line-height: 1.5 !important;
+    }
+
+    .primary-link,
+    .secondary-link {
+        text-align: center;
+        font-size: 10px !important;
+    }
+    .email-link {
+        font-size: 20px !important;
+    }
 }
 
 h1,
